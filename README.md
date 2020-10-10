@@ -1,4 +1,5 @@
-####         Hi there 👋 I'm Atshaya
+<div style="text-align:center">
+####         Hi there 👋 I'm Atshaya</div>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)
 
 
