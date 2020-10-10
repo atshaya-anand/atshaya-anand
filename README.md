@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)]
+### Hi there 👋 I'm Atshaya
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)
 
 
 - 🔭 I’m currently working on ... Angular
