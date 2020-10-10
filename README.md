@@ -1,6 +1,9 @@
-<div style="text-align:center">
-####         Hi there 👋 I'm Atshaya</div>
+
+# Hello, folks 👋
+******
+My name is Atshaya and I'm currently doing my graduation in Software Systems! Highly Motivated Full Stack Developer
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)
+![](https://komarev.com/ghpvc/?username=atshaya-anand)
 
 
 - 🔭 I’m currently working on ... Angular
