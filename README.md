@@ -1,6 +1,6 @@
 
 # Hello, folks 👋
-My name is Atshaya and I'm currently doing my graduation in Software Systems! Highly Motivated Full Stack Developer 💻 Android Developer 📱 
+My name is Atshaya and I'm currently doing my graduation in Software Systems!__ Highly Motivated Full Stack Developer 💻 Android Developer 📱 
 *****
 - 📫 How to reach me
 
