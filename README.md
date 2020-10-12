@@ -9,10 +9,9 @@ Passionate about developing innovative Software technologies<br />
 <br />
 
 
-## 🚀 Quick Stats
+### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atshaya-anand&langs_count=6&hide=matlab&count_private=true" />
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)
-![](https://komarev.com/ghpvc/?username=atshaya-anand)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=atshaya-anand&show_icons=true&line_height=21&count_private=true">
 </p>
 
