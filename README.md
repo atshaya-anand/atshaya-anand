@@ -15,6 +15,8 @@ Highly Motivated Full Stack Developer 💻 Android Developer 📱 Passionate abo
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 </p><br />
+
 #### 🚀 Quick Stats
+
 [![Atshaya's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atshaya-anand&hide=TeX&layout=compact)
