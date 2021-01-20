@@ -8,8 +8,5 @@ Highly Motivated Full Stack Developer 💻 Android Developer 📱 Passionate abo
 <br />
 
 #### 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atshaya-anand&langs_count=6&hide=matlab&count_private=true" />
+[![Atshaya's github stats](https://github-readme-stats.vercel.app/api?username=atshaya-anand)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atshaya-anand&hide=TeX&layout=compact)
-</p>
-
